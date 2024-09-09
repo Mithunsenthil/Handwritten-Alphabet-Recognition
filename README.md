@@ -7,10 +7,6 @@ This project implements a Handwritten Alphabet Recognition System using machine 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
