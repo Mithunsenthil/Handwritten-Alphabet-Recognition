@@ -1,6 +1,6 @@
-# Handwritten Alphabet Recognition System
+# Handwritten Digit Recognition System
 
-This project implements a Handwritten Alphabet Recognition System using machine learning techniques. The system is built in Python using the Keras library and is trained on the **MNIST dataset** (a dataset of handwritten digits and alphabets). The goal is to recognize and predict handwritten characters with high accuracy.
+This project implements a Handwritten digit Recognition System using machine learning techniques. The system is built in Python using the Keras library and is trained on the **MNIST dataset** (a dataset of handwritten digits). The goal is to recognize and predict handwritten digit with high accuracy.
 
 ## Table of Contents
 
@@ -10,11 +10,11 @@ This project implements a Handwritten Alphabet Recognition System using machine 
 
 ## Introduction
 
-Handwritten recognition is a popular problem in the field of machine learning. This project focuses on developing a neural network-based solution to recognize handwritten alphabets using the Keras deep learning library. The model is trained and tested on the MNIST dataset, which contains a large set of labeled handwritten characters.
+Handwritten recognition is a popular problem in the field of machine learning. This project focuses on developing a neural network-based solution to recognize handwritten digit using the Keras deep learning library. The model is trained and tested on the MNIST dataset, which contains a large set of labeled handwritten characters.
 
 ## Features
 
-- **Handwriting Recognition:** The system allows users to write on a file, and the system will recognize and predict the handwritten alphabets.
+- **Handwriting Recognition:** The system allows users to write on a file, and the system will recognize and predict the handwritten digit.
 - **Keras Library:** Keras, a powerful deep learning library, is used to implement and train the neural network model.
   
 ## Requirements
